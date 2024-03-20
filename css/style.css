@@ -14,3 +14,9 @@
     background-color: lightgray;
     border-radius: 8px;
 }
+
+section h1 {
+    font-style: Seven Segment, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
