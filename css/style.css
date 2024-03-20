@@ -20,3 +20,21 @@ section h1 {
     font-size: 30px;
     text-align: center;
 }
+
+
+/* SCHERMO CALCOLATRICE */
+.blackmirror {
+    height: 90px;
+    width: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.blackmirror h2 {
+    font-family: LCD;
+    font-size: 250%;
+    color: green;
+    padding-right: 20px;
+}
