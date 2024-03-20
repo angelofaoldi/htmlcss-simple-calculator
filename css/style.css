@@ -38,3 +38,22 @@ section h1 {
     color: green;
     padding-right: 20px;
 }
+
+/* TASTIERINO NUMERICO */
+
+.tastierino {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+/*TASTO */
+.tastierino div {
+    background-color: darkgray;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border: 1px solid black;
+}
