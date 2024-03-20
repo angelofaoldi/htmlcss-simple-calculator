@@ -65,3 +65,22 @@ section h1 {
     justify-content: center;
 }
 
+.colonna-destra {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content:space-around;
+    
+}
+
+.tasticolonna {
+    background-color: #1c8ea0;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 3px 0;
+    justify-content: right;
+
+    
+}
