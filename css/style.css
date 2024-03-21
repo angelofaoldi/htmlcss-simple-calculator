@@ -36,6 +36,20 @@ height: 600px;
 }
 
 .buttons {
-    height: 200px;
+    height: 250px;
     background-color: blue;
+    display: flex;
+    padding: 20px;
+}
+
+.numeri {
+    height: 190px;
+    background-color: gold;
+    width: 150px;
+}
+
+.operazioni {
+    height: 190px;
+    background-color: blueviolet;
+    width: 70px;
 }
